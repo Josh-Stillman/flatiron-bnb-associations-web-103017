@@ -9,6 +9,7 @@ def change
     t.float :price
     t.integer :host_id
     t.integer :neighborhood_id
+  end
 end
 
 end
